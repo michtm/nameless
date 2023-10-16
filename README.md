@@ -1,2 +1,2 @@
 # nameless
-A nameless programming language (translated from French)
+(En cours de construction)
